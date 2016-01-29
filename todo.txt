@@ -1,0 +1,2 @@
+Add CLI interface
+Add frequency analysis attack script
